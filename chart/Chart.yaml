@@ -1,7 +1,7 @@
 # This is the main values.yaml file for the resourcespace_docker chart.
 # More information can be found in the chart's README.md file.
 #
-# generated at: 2025-11-24T12:56:25-06:00
+# generated at: 2025-11-24T15:32:12-06:00
 # compose files: docker-compose.yaml
 # compose hash (sha1): 7ef9ff871f6607662d992bcbf313e5f61d10ae7a
 
