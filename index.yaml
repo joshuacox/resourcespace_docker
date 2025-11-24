@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  resourcespace_docker:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-11-24T21:56:59.119597868Z"
+    description: A Helm chart for resourcespace_docker
+    digest: 09d883c96672f079d3c64c7a42712e790d7bb26944de9cb635256ec76793abf8
+    name: resourcespace_docker
+    urls:
+    - https://github.com/joshuacox/resourcespace_docker/releases/download/resourcespace_docker-0.1.0/resourcespace_docker-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-24T21:56:59.119638515Z"
