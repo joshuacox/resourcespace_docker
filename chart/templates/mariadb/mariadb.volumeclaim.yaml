@@ -3,7 +3,7 @@ apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
   annotations:
-    katenary.v3/compose-hash: 7ef9ff871f6607662d992bcbf313e5f61d10ae7a
+    katenary.v3/compose-hash: 95e4a82d22f5978da3fcb0847f42ab03ac713fb1
     katenary.v3/version: master
   labels:
     {{- include "resourcespace_docker.labels" . | nindent 4 }}
