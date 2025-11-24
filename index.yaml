@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   resourcespace_docker:
   - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2025-11-24T22:41:31.337933609Z"
+    description: A Helm chart for resourcespace_docker
+    digest: 77e54db13deefa70e5b9c1747d280129de42df52982dc5aeb2141e7b83c94aea
+    name: resourcespace_docker
+    urls:
+    - https://github.com/joshuacox/resourcespace_docker/releases/download/resourcespace_docker-0.1.2/resourcespace_docker-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 0.1.1
     created: "2025-11-24T22:23:22.355019258Z"
     description: A Helm chart for resourcespace_docker
@@ -19,4 +28,4 @@ entries:
     urls:
     - https://github.com/joshuacox/resourcespace_docker/releases/download/resourcespace_docker-0.1.0/resourcespace_docker-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-24T22:23:22.355032152Z"
+generated: "2025-11-24T22:41:31.337946172Z"
