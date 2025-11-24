@@ -76,8 +76,11 @@ resourcespace:
   repository:
     # key: resourcespace.repository.image
     image: ""
+    # This is the version of the main application.
+    # Leave it to blank to use the Chart "AppVersion" value.
     # key: resourcespace.repository.tag
     tag: ""
+
   # key: resourcespace.persistence
   persistence:
     # key: resourcespace.persistence.filestore

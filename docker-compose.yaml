@@ -9,6 +9,7 @@ services:
       - filestore:/var/www/html/filestore
       - ./config.php:/var/www/html/include/config.php
     labels:
+      katenary.v3/main-app: true
       katenary.v3/configmap-files: |-
         - ./config.php
       katenary.v3/ingress: |-
