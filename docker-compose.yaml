@@ -32,6 +32,7 @@ services:
     networks:
       - backend
     labels:
+      katenary.v3/svc-optional: true
       katenary.v3/ports: |-
         - 3306
 
